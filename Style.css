@@ -1,0 +1,40 @@
+html {Font-size: 100%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; width: 980px}
+#Hr1 {Height: 4px; Background-color: Steelblue; }
+
+#SearchButton {Height: 41px; width: 70px; background-color: Steelblue; -webkit-text-fill-color: Ghostwhite; margin-top: 60px;}
+.Search {Margin: 0 -7px 0 600px; Height: 35px; Width: 250px; font-family: Georgia }
+
+#MainMenu { height: 60px; background-color: Steelblue; margin-top: 65px; font-family: Georgia}
+.Main { -webkit-text-fill-color: Ghostwhite; margin-left: 7px; font-size: 20px; }
+ul { margin-top: 15px; }
+#ProbelBottom { margin-top: 40px; }
+#BodyFirst {Height: 400px; width: 960px; margin: 0 0 0 25px; background-image: url('BodyFirst 0.jpg'); background-repeat: no-repeat; } 
+
+.Border { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; margin-left: 25px; text-align: Center;  background-image: url('Border1.jpg'); background-size: cover;} 
+.Border2 { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; text-align: Center; background-image: url('Border2.jpg'); background-size: cover;}
+.Border3 { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; text-align: Center; background-image: url('Border3.jpg'); background-size: cover; }
+.Border4 { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; text-align: Center; background-image: url('Border4.jpg'); background-size: cover; }
+
+.Text { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; margin-left: 25px; text-align: center;  }
+.Text2 { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; text-align: center; }
+.Text3 { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; text-align: center; }
+.Text4 { border-width: 2px; border-color: #7922CC; width: 225px; height: 180px; display: inline-block; text-align: center; }
+#Hr2 { Width: 910px; margin-left: 25px; display: inline-block;}
+h2 { margin-left: 25px; }
+h5 { text-align: Left; margin-left: 5px;}
+.p1 { margin-left: 5px; text-align: Left; margin-top: 7px; }
+.p2 { margin-left: 5px; text-align: Left; margin-top: -7px; }
+.p3 { text-align: Left; margin-top: -21px; margin-left: 5px;}
+.p4 { margin-left: 90px; margin-bottom: 5px; }
+
+li { margin-left: 5px; text-align: Left }
+
+.Text5 { border-width: 2px; border-color: #7922CC; width: 281.25px; height: 470px; display: inline-block; margin-left: 25px; }
+.Text6 { border-width: 2px; border-color: #7922CC; width: 300px; height: 470px; display: inline-block; margin-left: 25px; }
+.Text7 { border-width: 2px; border-color: #7922CC; width: 281.25px; height: 467px; padding-block-start: 3px; display: inline-block; margin-left: 25px; text-align: Center; }
+.Vikladach1 { margin-left: 15px; width: 80px; height: 80px; background-image: url('Vikladach1.jpg'); background-size: cover; outline: 2px solid #FFF;  }
+.Vikladach2 { margin-left: 15px; width: 80px; height: 80px; background-image: url('Vikladach2.jpg'); background-size: cover; outline: 2px solid #FFF;  }
+.Vikladach3 { margin-left: 15px; width: 80px; height: 80px; background-image: url('Vikladach3.jpg'); background-size: cover; outline: 2px solid #FFF;  }
+.Vikladach4 { margin-left: 15px; width: 80px; height: 80px; background-image: url('Vikladach4.jpg'); background-size: cover; outline: 2px solid #FFF;  }
+
+#Footer { Height: 62px; background-color:rgb(194, 194, 194);text-align: Center; color: White; Margin-bottom: 10px; font-style: Oblique; }
